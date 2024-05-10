@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|solutionrelative:pronia.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.business\\services\\abstracts\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|solutionrelative:pronia.business\\services\\abstracts\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.business\\exceptions\\dublicatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54730F-7044-4D6D-B7F3-439A49A3AF25}|Pronia.Business\\Pronia.Business.csproj|solutionrelative:pronia.business\\exceptions\\dublicatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\repositoryabstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\repositoryabstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\repositoryabstract\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\repositoryabstract\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\repositoryabstract\\itagsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\repositoryabstract\\itagsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\repositoryabstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DADB5A9-1F46-480C-AFEE-6BA7FBC9D70F}|ProniaTemplate\\ProniaTemplate.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\proniatemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DADB5A9-1F46-480C-AFEE-6BA7FBC9D70F}|ProniaTemplate\\ProniaTemplate.csproj|solutionrelative:proniatemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF15D21-D6BF-42ED-B762-1CB02A579288}|Pronia.Core\\Pronia.Core.csproj|solutionrelative:pronia.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\pronia.data\\migrations\\20240509232019_addproniadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FE00E0-CF19-4B69-804B-CCE79A7741A1}|Pronia.Data\\Pronia.Data.csproj|solutionrelative:pronia.data\\migrations\\20240509232019_addproniadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DADB5A9-1F46-480C-AFEE-6BA7FBC9D70F}|ProniaTemplate\\ProniaTemplate.csproj|c:\\users\\allahyar\\desktop\\alltasksmvc\\ftobtask2\\proniatemplate\\proniatemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DADB5A9-1F46-480C-AFEE-6BA7FBC9D70F}|ProniaTemplate\\ProniaTemplate.csproj|solutionrelative:proniatemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DublicateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Exceptions\\DublicateCategory.cs",
+              "RelativeDocumentMoniker": "Pronia.Business\\Exceptions\\DublicateCategory.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Exceptions\\DublicateCategory.cs",
+              "RelativeToolTip": "Pronia.Business\\Exceptions\\DublicateCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:02:26.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Pronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "Pronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:53:58.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Services\\Abstracts\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "Pronia.Business\\Services\\Abstracts\\ICategoryServices.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Business\\Services\\Abstracts\\ICategoryServices.cs",
+              "RelativeToolTip": "Pronia.Business\\Services\\Abstracts\\ICategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:45:01.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "Pronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:41:20.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeToolTip": "Pronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:40:20.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "Pronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:36:15.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Pronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:13:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "RelativeToolTip": "Pronia.Core\\RepositoryAbstract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:55:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITagsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\ITagsRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\RepositoryAbstract\\ITagsRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\ITagsRepository.cs",
+              "RelativeToolTip": "Pronia.Core\\RepositoryAbstract\\ITagsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:41:50.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "Pronia.Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:41:35.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\RepositoryAbstract\\IProductsRepository.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\RepositoryAbstract\\IProductsRepository.cs",
+              "RelativeToolTip": "Pronia.Core\\RepositoryAbstract\\IProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:41:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Pronia.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:33:55.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240509232019_AddProniaDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\Migrations\\20240509232019_AddProniaDatabase.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\Migrations\\20240509232019_AddProniaDatabase.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\Migrations\\20240509232019_AddProniaDatabase.cs",
+              "RelativeToolTip": "Pronia.Data\\Migrations\\20240509232019_AddProniaDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:20:19.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\ProniaTemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaTemplate\\appsettings.json",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\ProniaTemplate\\appsettings.json",
+              "RelativeToolTip": "ProniaTemplate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T23:12:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Category.cs",
+              "RelativeToolTip": "Pronia.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:56:03.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pronia.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Pronia.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:04:04.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Product.cs",
+              "RelativeToolTip": "Pronia.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:46:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Pronia.Core\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\Pronia.Core\\Models\\Tag.cs",
+              "RelativeToolTip": "Pronia.Core\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:44:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\ProniaTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Allahyar\\Desktop\\ALLTASKSMVC\\FTOBTASK2\\ProniaTemplate\\ProniaTemplate\\Program.cs",
+              "RelativeToolTip": "ProniaTemplate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:58:23.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
